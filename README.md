@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heavy-heart-sweet-memories/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Heavy Heart Sweet Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-heart-sweet-memories/) |
+| **Get License** | [Get a Licensing Quote for Heavy Heart Sweet Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-heart-sweet-memories/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can still feel your touch in the cool night air
+> Fingers tracing the edge of your beautiful hair
+> These heavy heart sweet memories
+> Are pulling you closer, falling for me
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
